@@ -5,8 +5,10 @@
 1. ### Function Review
  * Declare a function, findBMI() that returns a Double value. It takes two parameters (Weight: Double and Height: Int)
 * Within the findBMI() function, we’ll use the following formula as a guide to set up an expression that calculates the BMI using weight and height:
-    BMI = Weight / (Height * Height)
+    BMI = (Weight / (Height * Height)) * 703
+ * Test your function by calling it and printing the result.
  */
+
 
 
 
